@@ -57,11 +57,11 @@ Clone this repository or download the script to your local machine. Run the scri
 
 1. *Creating a dictionary*:
     python
-    my_dict = {'sateesh': 201, 'sudheer': 202, 'mohan': 2033}
+    my_dict = {'sateesh': 201, 'sudheer': 202, 'mohan': 203}
     
 2. *Adding an element to the dictionary*:
     python
-    my_dict['basha'] = 2044
+    my_dict['basha'] = 204
     
 3. *Removing an element from the dictionary*:
     python
