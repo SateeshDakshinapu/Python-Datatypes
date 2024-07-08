@@ -57,19 +57,19 @@ Clone this repository or download the script to your local machine. Run the scri
 
 1. *Creating a dictionary*:
     python
-    my_dict = {'a': 1, 'b': 2, 'c': 3}
+    my_dict = {'sateesh': 201, 'sudheer': 202, 'mohan': 2033}
     
 2. *Adding an element to the dictionary*:
     python
-    my_dict['d'] = 4
+    my_dict['basha'] = 2044
     
 3. *Removing an element from the dictionary*:
     python
-    del my_dict['b']
+    del my_dict['sudheer']
     
 4. *Modifying an element in the dictionary*:
     python
-    my_dict['a'] = 10
+    my_dict['sateesh'] = 205
     
 
 ### Set Operations
